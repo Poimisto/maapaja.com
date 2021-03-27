@@ -1,21 +1,65 @@
 ---
 path: /home
-thumbnail: /assets/proxyclick-visitor-management-system-s86whghp25y-unsplash.jpg
+thumbnail: /assets/kaivuri.jpg
 date: 2020-11-15T20:33:13.757Z
-title: Digitaalisen liiketoiminnan kehitys ja konsultointi
-metaDescription: Searching for your ways, through adventures every day. Every
-  day and night, with the condor in flight, with all your friends in tow, you
-  search for the Cities of Gold. Ah-ah-ah-ah-ah… wishing for The Cities of Gold.
+title: Maanrakennustyöt ja metsänhoitotyöt Tampereella ja Pirkanmaan alueella
+metaDescription: "Maapaja Oy on vuonna 2016 perustettu tamperelainen
+  maanrakennusalan yritys. Toteutamme ammattitaistoisesti kaikki
+  maanrakennustyöt alusta loppuun saakka, asiakkaan kanssa sovitun aikataulun ja
+  kustannusten mukaan. "
 ---
 
 <HeroBlock bgColor="dark">
 
-# Children of the sun, see your time has just begun
+![](/assets/kaivuri-wide.jpg)
 
-Searching for your ways, through adventures every day. Every day and night, with the condor in flight, with all your friends in tow, you search for the Cities of Gold. Ah-ah-ah-ah-ah… wishing for The Cities of Gold. 
 
-> Ah-ah-ah-ah-ah… some day we will find The Cities of Gold. Do-do-do-do ah-ah-ah, do-do-do-do, Cities of Gold. Do-do-do-do, Cities of Gold. Ah-ah-ah-ah-ah… some day we will find The Cities of Gold.
+
+Maapaja Oy on vuonna 2016 perustettu tamperelainen maanrakennusalan yritys. Toteutamme ammattitaistoisesti kaikki maanrakennustyöt alusta loppuun saakka, asiakkaan kanssa sovitun aikataulun ja kustannusten mukaan. 
+
+Meiltä onnistuu kaikki pihan pienimmistä muokkauksista aina talonpohjiin saakka. Erityisalaamme ovat pihatyöt ja rakennusten ja rakenteiden pohjatyöt. 
+
+Teemme myös metsänhoidollisia töitä, kuten raivaus, istutus ja erikoispuiden kaadot. Käytämme nykyaikaista ja luotettavaa vuokrakalustoa, joka mahdollistaa aina oikeat laitteet oikeaan kohteeseen.
 
 </HeroBlock>
 
-<LatestPosts maxNumberOfPosts="4" title="Viimeisimmät artikkelit"/>
+## Palvelut
+
+### Maanrakennustyöt:
+
+* Pihatyöt ja -suunnittelu
+* Viherraknetaminen
+* Salaoja-, sade-, ja jätevesikaivot
+* Jätevesijärjestelmät
+* Pohjarakentaminen
+* Purkutyöt
+* Työmaiden pintojen ennallistamiset (siivous)
+* Kaapelikaivuut
+* Perämiestyöt
+
+### Metsänhoitotyöt:
+
+* Pihapuiden kaadot
+* Erikoispuiden kaadot
+* Harvennukset
+* Raivaus
+* Istutus
+
+### Yhteystiedot
+
+* Maapaja Oy
+* Y-tunnus 2278668-1
+* Mäenpääntie 31
+* 34260 Terälahti
+* Teemu Siltanen 044 23 11 402
+* maapajaoy@gmail.com
+
+### Laskutustiedot:
+
+* Verkkolaskutusosoite: 0037227866811
+* Välittäjätunnus: OKOYFIHH 
+
+### Laskutuksen yhteyshenkilö:
+
+* Mari Hänninen 044 52 67 586
+* maapajaoy@gmail.com

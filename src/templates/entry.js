@@ -29,8 +29,6 @@ const GlobalStyle = createGlobalStyle`
   }
   a {
     text-decaration:none;
-    text-transform:uppercase;
-    color:red;
   }
   button {
     text-decoration:none;

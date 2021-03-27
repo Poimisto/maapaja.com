@@ -34,9 +34,9 @@ export const Container = styled.div`
   }
 `;
 
-const LogoImage = styled.img`
-  max-width:120px;
-  margin-top:6px;
+const LogoImage = styled.div`
+  font-family:Garamond;
+  font-size:24px;
 `;
 const NavGridContainer = styled(Grid)`
   display:flex;
@@ -60,7 +60,11 @@ export default ({children}) => {
           <NavGridContainer>
             <Grid item>
               <Link to="/">
-                <LogoImage src={require('../images/poimisto-logo.png')} alt="Logo" />
+                <LogoImage alt="Logo">
+                
+                    Maapaja Oy
+             
+                </LogoImage>
               </Link>
             </Grid>
             <Grid item>
